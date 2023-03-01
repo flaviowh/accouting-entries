@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'C:\Users\flavi\Desktop\Py files\Accounting Assistant\UI\mainwindow.ui'
 #
 # Created by: PyQt5 UI code generator 5.15.6
 #
@@ -109,7 +108,7 @@ class Ui_MainWindow(object):
         self.label.setAutoFillBackground(False)
         self.label.setStyleSheet("background-color: rgba(0,0, 0, 0);")
         self.label.setText("")
-        self.label.setPixmap(QtGui.QPixmap("C:\\Users\\flavi\\Desktop\\Py files\\Accounting Assistant\\UI\\pngegg.png"))
+        self.label.setPixmap(QtGui.QPixmap(".\\pngegg.png"))
         self.label.setScaledContents(True)
         self.label.setObjectName("label")
         self.mainwindow_label = QtWidgets.QLabel(self.frame_2)
