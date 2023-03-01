@@ -10,6 +10,8 @@ My more recent repo has classes that read OFX and PDF directly with specialized 
 Requires separate installation of Tesseract, Poppler and SQLLiteStudio and setting their paths in the config file.
 
 If you'd like to contribute or have any questions, contact me.
+
+![Captura de tela_20230301_171202](https://user-images.githubusercontent.com/91790030/222265326-fbb022b1-3371-4015-8998-67b8c922b1ff.png)
 ![Captura de tela_20230301_171247](https://user-images.githubusercontent.com/91790030/222265320-21fe2acb-afad-478b-9f69-eff1a9269c15.png)
 ![Captura de tela_20230301_171621](https://user-images.githubusercontent.com/91790030/222265323-6bb5615b-e1ab-4322-bb4b-d1593d1fcf2b.png)
-![Captura de tela_20230301_171202](https://user-images.githubusercontent.com/91790030/222265326-fbb022b1-3371-4015-8998-67b8c922b1ff.png)
+
