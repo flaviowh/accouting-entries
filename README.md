@@ -5,6 +5,8 @@ Before anything, notice this is just for showcase and needs a lot of refactoring
 
 The program reads bank statements saved as .txt , payment receipts as PDF or image files with Tesseract OCR and the two entry types are matched using keywords stored in a SQL3 editable database.
 
+Limitations: every bank needs it's own reader, currently only 2 banks are available, BB and itau, and they might need updates as regex break easily. I'd not recommend to use unless you really need to lol
+
 My more recent repo has classes that read OFX and PDF directly with specialized libraries. Ideally, clients should send their statements as OFX and receipts as readable PDFs or organized in excel sheets, but this rarely happens. Although OCR, regular expressions and machine learning classifiers are all prone to error, they have helped me and saved hours of useless typing.
 
 Requires separate installation of Tesseract, Poppler and SQLLiteStudio and setting their paths in the config file.
