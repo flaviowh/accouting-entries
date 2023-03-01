@@ -241,16 +241,4 @@ class WordCounterToVectorTransformer(BaseEstimator, TransformerMixin):
 
 ### ----------------------------
 
-# TESTS
-
-
-# path = r"D:\Data for python\general_debits"
-# #path2 = r'D:\Data for python\novo visual 2021\separated'
-# trainer = ModelTrainer(path, BEST_MODEL)
-
-# scores = trainer.cross_validate_models()
-# print(scores)
-# trainer.save_model("model0")
-# trainer.save_pipeline("pipeline0")
-
 
