@@ -1,0 +1,6 @@
+Accounting Assistant ajuda a contabilizar documentos simples
+com lançamentos de primeira fórmula, e a calcular o movimento
+de um produto único por meio de notas fiscais XML.
+
+É extrememente recomendável revisar antes de exportar os lançamentos.
+
